@@ -4,4 +4,8 @@
 
 The book is [free to download](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) and an online course by the authors is available on [youtube](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) as well as on [edx](https://www.edx.org/course/statistical-learning) with the possibility to purchase a certificate of completion.
 
-This repository contains my solutions to the labs and exercises, and some notes and plots from the textbook as well.
+This repository contains my solutions to the labs and exercises, and some notes and plots from the textbook as well.  
+I would also recommend you to take a look at the following repository that cover ISL as well:
+
+1. [Ted Petrou's ISL summary](https://github.com/tdpetrou/Machine-Learning-Books-With-Python/tree/master/Introduction%20to%20Statistical%20Learning)  
+
